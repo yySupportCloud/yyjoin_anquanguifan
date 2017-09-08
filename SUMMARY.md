@@ -1,0 +1,26 @@
+# 安全规范
+* 概述
+   * [概述](gai_shu.md)
+* 安全编码原则
+   * [安全编码原则](an_quan_bian_ma_yuan_ze.md)
+* 常见WEB潜在问题
+   * [常见WEB潜在问题](chang_jian_web_qian_zai_wen_ti.md)
+* 基本开发安全规范
+   * [跨站点脚本(XSS)防范](chapter4_section1.md)
+   * [页面组件安全防范](chapter4_section2.md)
+   * [敏感数据的安全防范](chapter4_section3.md)
+   * [WEB安全防范](chapter4_section4.md)
+* iuap-security组件介绍
+   * [业务需求](chapter5_section1.md)
+   * [解决方案](chapter5_section2.md)
+   * 功能说明
+       * [RestAPI签名](chapter5_section3.md)
+       * [RestAPI验签](chapter5_section4.md)
+       * [编码](chapter5_section5.md)
+       * [对称加密算法](chapter5_section6.md)
+           * [加密](chapter5_section7.md)
+           * [解密](chapter5_section8.md)
+       * [非对称加密算法](chapter5_section9.md)
+           * [加密](chapter5_section10.md)
+           * [解密](chapter5_section11.md)
+
